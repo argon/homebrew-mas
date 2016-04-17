@@ -1,9 +1,9 @@
 class Mas < Formula
   desc "Mac App Store command-line interface"
   homepage "https://github.com/argon/mas"
-  url "https://github.com/argon/mas/releases/download/v1.1.3/mas-cli.zip"
-  version "1.1.3"
-  sha256 "4509706dd3744c1ea7682d8642f78d5e7408258bd1f2490172f189fa5348f647"
+  url "https://github.com/argon/mas/releases/download/v1.2.0/mas-cli.zip"
+  version "1.2.0"
+  sha256 "adb477d7b6ce92fb4fbf80132fbeeafe6a21432b8938fe7d1b29782e7b234eee"
 
   depends_on :macos => :yosemite
 
